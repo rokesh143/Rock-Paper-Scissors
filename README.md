@@ -17,7 +17,7 @@ A text editor or IDE (e.g., VS Code, IntelliJ, Eclipse)
 # 💻 Run via Terminal/Command Prompt
 
 Clone the repository:
-git clone https://github.com/yourusername/RockPaperScissors.git
+git clone https://github.com/rokesh143/Rock-Paper-Scissors.git
 cd RockPaperScissors
 
 Compile the program: bash Copy Edit javac RockPaperScissors.java Run the program:
